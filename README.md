@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End Web Developer who loves to learn REACT
 -----------------------------------------------------
 
-A good skilled ,quick learner and motivated junior front end web developer with solid background in Computer Science.My expertise lies in front end development with Javascript (React,Next.js).I possess good problem solving abalities and effective communication skills,ensuring seamless collabration within a team.Delivering high-quality solutions within a specific timeframes.Additionally,I am a rapid learner,adapting swiftly to new technologies and challenges to contribute effectively in projects.I was graduated Bachelor of Computer Science(B.C.Sc) from Computer University Mandalay(CUMDY) at 2019.
+A good skilled ,quick learner and motivated junior front end web developer with solid background in Computer Science.I possess good problem solving abalities and effective communication skills,ensuring seamless collabration within a team.Delivering high-quality solutions within a specific timeframes.Additionally,I am a rapid learner,adapting swiftly to new technologies and challenges to contribute effectively in projects.I was graduated Bachelor of Computer Science(B.C.Sc) from Computer University Mandalay(CUMDY) at 2019.
 
 * ✉️  You can contact me at [littlehanhtunaung97@gmail.com](mailto:littlehanhtunaung97@gmail.com)
 * 🧠  I'm learning REACT,NEXT..js
