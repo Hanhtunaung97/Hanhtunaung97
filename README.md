@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Han Htunaung
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Han Htunaung
 ====================================================================================================================================
 
 I am Front End Web Developer who loves to learn REACT
@@ -9,7 +9,7 @@ A good skilled ,quick learner and motivated junior front end web developer with 
 * 🌍  I'm based in Mandalay
 * ✉️  You can contact me at [littlehanhtunaung97@gmail.com](mailto:littlehanhtunaung97@gmail.com)
 * 🧠  I'm learning REACT,NEXT..js
-* ⚡  I am funny guys you will see when we meet.
+* ⚡  I am funny and friendly guys.
 
 ### Skills
 
