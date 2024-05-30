@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Han Htunaung
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Han Htunaung
 ====================================================================================================================================
 
 I am Front End Web Developer who loves to learn REACT
@@ -6,10 +6,10 @@ I am Front End Web Developer who loves to learn REACT
 
 A good skilled ,quick learner and motivated junior front end web developer with solid background in Computer Science.I possess good problem solving abalities and effective communication skills,ensuring seamless collabration within a team.Additionally,I am a rapid learner,adapting swiftly to new technologies and challenges to contribute effectively in projects.I was graduated Bachelor of Computer Science(B.C.Sc) from Computer University Mandalay(CUMDY) at 2019.
 
-* 🌍  I'm based in Mandalay
-* ✉️  You can contact me at [littlehanhtunaung97@gmail.com](mailto:littlehanhtunaung97@gmail.com)
-* 🧠  I'm learning REACT,NEXT..js
-* ⚡  I am funny and friendly guys.
+* 🌍  I'm based in KualaLumpur,Malaysia
+* ✉️  You can contact me at [littlehanhtunaung97@gmail.com](mailto:littlehanhtunaung97@gmail.com) and can check my portfolio at https://han-htun-aung-portfolio.netlify.app/
+* 🧠  I'm loving to learn front-end web development and related libraries such as REACT,NEXT.js
+* ⚡  I am funny and friendly guys with flexiable mindset.
 
 ### Skills
 
